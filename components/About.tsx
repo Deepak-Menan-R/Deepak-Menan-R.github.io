@@ -20,7 +20,7 @@ export default function About() {
 
           <div>
             <p className="text-xs font-mono text-neutral-400 dark:text-neutral-600 uppercase tracking-widest mb-3">
-              Education
+              Educationnnn
             </p>
             <p className="text-sm font-medium text-neutral-900 dark:text-neutral-100">
               {profile.education.degree}
